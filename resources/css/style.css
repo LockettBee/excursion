@@ -15,7 +15,6 @@ p {
 }
 
 #excursion_download {
-  color: aquamarine;
   font-size: 16px;
 }
 
@@ -27,4 +26,8 @@ p {
 .main_header {
   font-size: 42px;
   font-weight: 300;
+}
+
+a:link {
+  color: aquamarine;
 }
